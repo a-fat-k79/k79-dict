@@ -12,12 +12,15 @@
 
 ![](https://github.com/a-fat-k79/IMG/blob/master/k79-dict/chinese_dic.jpg)
 
-[csv](https://github.com/a-fat-k79/IMG/blob/master/k79-dict/chinese_dictionary.csv)
+##### 下载
 
-[html](https://github.com/a-fat-k79/IMG/blob/master/k79-dict/chinese_dictionary.html)
+[csv](https://a-fat-k79.github.io/IMG/k79-dict/chinese_dictionary.html)
 
-[pdf](https://github.com/a-fat-k79/IMG/blob/master/k79-dict/chinese_dictionary.pdf)
+[pdf](https://a-fat-k79.github.io/IMG/k79-dict/chinese_dictionary.pdf)
 
-[xlsx](https://github.com/a-fat-k79/IMG/blob/master/k79-dict/chinese_dictionary.xlsx)
+[xlsx](https://a-fat-k79.github.io/IMG/k79-dict/chinese_dictionary.xlsx)
+
+[csv](https://a-fat-k79.github.io/IMG/k79-dict/chinese_dictionary.csv)
+
 
 ****
