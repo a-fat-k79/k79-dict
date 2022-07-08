@@ -14,9 +14,9 @@
 
 ##### 下载
 
-[html](https://a-fat-k79.github.io/IMG/k79-dict/chinese_dictionary.html){:target="_blank"} ， 
-[pdf](https://a-fat-k79.github.io/IMG/k79-dict/chinese_dictionary.pdf){:target="_blank"} ， 
-[xlsx](https://a-fat-k79.github.io/IMG/k79-dict/chinese_dictionary.xlsx){:target="_blank"} ， 
-[csv](https://a-fat-k79.github.io/IMG/k79-dict/chinese_dictionary.csv){:target="_blank"} ， 
+[html](https://a-fat-k79.github.io/IMG/k79-dict/chinese_dictionary.html) ， 
+[pdf](https://a-fat-k79.github.io/IMG/k79-dict/chinese_dictionary.pdf) ， 
+[xlsx](https://a-fat-k79.github.io/IMG/k79-dict/chinese_dictionary.xlsx) ， 
+[csv](https://a-fat-k79.github.io/IMG/k79-dict/chinese_dictionary.csv) 
 
 ****
