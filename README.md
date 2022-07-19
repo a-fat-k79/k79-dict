@@ -10,7 +10,7 @@
  
 **汉字，UNICODE，GBK，拼音，部首，笔画数，五行，繁体，五笔**
 
-![](https://github.com/a-fat-k79/IMG/blob/master/k79-dict/chinese_dic/chinese_dic.jpg)
+![](https://a-fat-k79.github.io/IMG/k79-dict/chinese_dic/chinese_dic.jpg)
 
 ##### 下载
 
