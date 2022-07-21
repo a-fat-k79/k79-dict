@@ -36,7 +36,7 @@
 ****
 #### 姓名库
  
- 收录姓名： 83423（来源诗经）， 165236（来源[中国历代人物传记资料库](https://projects.iq.harvard.edu/chinesecbdb)）
+ 收录姓名： 8W+（来源诗经）， 16W+（来源[中国历代人物传记资料库](https://projects.iq.harvard.edu/chinesecbdb)）
 ![](https://a-fat-k79.github.io/IMG/k79-dict/name_dic/name_shijing.jpg)
 ![](https://a-fat-k79.github.io/IMG/k79-dict/name_dic/name_cdbd.jpg)
 
